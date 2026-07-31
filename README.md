@@ -17,7 +17,7 @@
 
 ### Sobre mim
 
-Sou **Tech Lead** e desenvolvedor Full-Stack com mais de **7 anos** criando aplicações web robustas e escaláveis — do backend em PHP/Node até o frontend em JavaScript moderno.
+Sou **Tech Lead** e desenvolvedor Full-Stack com mais de **8 anos** criando aplicações web robustas e escaláveis — do backend em PHP/Node até o frontend em JavaScript moderno.
 
 Como Tech Lead, lidero times técnicos na definição de **arquiteturas escaláveis**, faço **code reviews** rigorosos com foco em clean code e SOLID, otimizo performance de bancos e APIs e implemento **CI/CD** com Docker, GitLab e AWS. Também coordeno sprints (Scrum / OKRs) e mentoro devs júnior, pleno e sênior para entregar features de alta qualidade sem downtime.
 
