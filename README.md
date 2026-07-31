@@ -81,7 +81,6 @@ Atuo com arquitetura, integrações e entregas que resolvem problemas reais de n
 
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-dias-wolff-31904819b/)
   [![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/danieldiaswolff)
-  [![Alura](https://img.shields.io/badge/Alura-0078CF?style=for-the-badge&logo=alura&logoColor=white)](https://cursos.alura.com.br/user/daniel-dias15)
 
   <br />
 
