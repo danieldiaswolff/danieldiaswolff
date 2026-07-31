@@ -63,12 +63,6 @@ Atuo com arquitetura, integrações e entregas que resolvem problemas reais de n
 <br />
 
 <div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=danieldiaswolff&theme=tokyo-night&hide_border=true&area=true" alt="Contribution graph" />
-</div>
-
-<br />
-
-<div align="center">
   <img src="https://raw.githubusercontent.com/danieldiaswolff/danieldiaswolff/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
