@@ -17,13 +17,16 @@
 
 ### Sobre mim
 
-Sou **desenvolvedor Full-Stack** com mais de **7 anos** criando aplicações web robustas e escaláveis — do backend em PHP/Node até o frontend em JavaScript moderno.
+Sou **Tech Lead** e desenvolvedor Full-Stack com mais de **7 anos** criando aplicações web robustas e escaláveis — do backend em PHP/Node até o frontend em JavaScript moderno.
 
-Atuo com arquitetura, integrações e entregas que resolvem problemas reais de negócio: pagamentos, delivery, ERPs, rastreamento, WhatsApp e IA.
+Como Tech Lead, lidero times técnicos na definição de **arquiteturas escaláveis**, faço **code reviews** rigorosos com foco em clean code e SOLID, otimizo performance de bancos e APIs e implemento **CI/CD** com Docker, GitLab e AWS. Também coordeno sprints (Scrum / OKRs) e mentoro devs júnior, pleno e sênior para entregar features de alta qualidade sem downtime.
 
-- 🔭 Foco em sistemas escaláveis, limpos e fáceis de manter
-- 🧠 Valorizo KISS, YAGNI, Design Patterns e boas práticas
-- 🤝 Trabalho com Scrum / Kanban e colaboração de time
+Atuo ainda com integrações e entregas que resolvem problemas reais de negócio: pagamentos, delivery, ERPs, rastreamento, WhatsApp e IA.
+
+- 🧭 Liderança técnica, arquitetura e mentoria de times
+- 🔍 Code review com foco em clean code, SOLID e manutenibilidade
+- ⚙️ CI/CD, Docker, GitLab, AWS e otimização de DBs / APIs
+- 🤝 Scrum, OKRs e entregas contínuas sem downtime
 - 💬 Aberto a novos desafios e conexões
 
 ---
@@ -31,7 +34,7 @@ Atuo com arquitetura, integrações e entregas que resolvem problemas reais de n
 ### Stack & ferramentas
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,react,angular,jquery,python,mysql,postgres,html,css,git,github,docker,linux&theme=dark" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=php,laravel,nodejs,js,ts,react,angular,jquery,python,mysql,postgres,html,css,git,github,gitlab,docker,aws,linux&theme=dark" alt="Skills" />
 </p>
 
 | Área | Tecnologias |
@@ -39,9 +42,10 @@ Atuo com arquitetura, integrações e entregas que resolvem problemas reais de n
 | **Backend** | PHP · Laravel · CodeIgniter · Node.js · Python |
 | **Frontend** | JavaScript · TypeScript · React · Angular · jQuery |
 | **Dados** | MySQL · Oracle · SQL Server · Informix · modelagem & otimização |
-| **Qualidade** | PHPUnit · Cypress · Git · GitHub · GitLab |
+| **DevOps** | Docker · GitLab CI/CD · AWS · Git · GitHub |
+| **Qualidade** | Code review · Clean Code · SOLID · PHPUnit · Cypress |
 | **Integrações** | Pagamentos · WhatsApp / IA · ERPs (Logix, Sankhya) · rastreamento |
-
+| **Liderança** | Tech Lead · Scrum · OKRs · mentoria de times |
 ---
 
 ### O que já construí
