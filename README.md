@@ -57,7 +57,6 @@ Atuo com arquitetura, integrações e entregas que resolvem problemas reais de n
 ### GitHub Stats
 
 <div align="center">
-  <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api?username=danieldiaswolff&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
   <img height="180" src="https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=danieldiaswolff&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 </div>
 
